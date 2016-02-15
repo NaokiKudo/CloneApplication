@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
         i++;
 
         bool = false;
+        if (bool){
+            i++;
+        }
     }
 }
